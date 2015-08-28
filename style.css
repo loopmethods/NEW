@@ -25,7 +25,7 @@ z-index:999;
 
 }
 .logo {
-    margin-top:20px;
+    margin-top:75px;
 
 	
 }
@@ -92,9 +92,9 @@ z-index:999;
 	padding:0px 0px 0px 0px;
 	font-family:"Palatino Linotype";
 	cursor:pointer;
-	padding:5px;
+	padding:7px;
 	position:fixed;
-	bottom:5px;
+	bottom:25px;
 }
 .text_area{
 background-color: rgba(0, 0, 0, 0.26) !important;
@@ -650,8 +650,8 @@ border-top-color: #acacac;
 }
 
 .logo {
-    margin-top:50px;
-	width: 100%;
+    margin-top:25px;
+	
 }
 }
 
